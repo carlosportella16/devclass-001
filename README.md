@@ -5,12 +5,13 @@
 
 É a primeira aula de HTML5 e CSS3 do canal DevSuperior. 
 
-A aplicação consiste em uma landing page de um site de vendas de automóveis.
+A aplicação consiste em uma landing page de um site de vendas de automóveis. O projeto é responsivo para todos os tipos de tela e foi desenvolvido com o princípio Mobile First.
 
 # Vizualização
 
 É possível vizualizar a aplicação rodando pelo link abaixo:
-developmentclass-001.netlify.app
+
+https://developmentclass-001.netlify.app
 
 
 # Autor

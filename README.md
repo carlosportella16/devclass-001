@@ -1,4 +1,4 @@
-# Car Catalog Web Site 
+# Catálago de Carros
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Carlos16071996/devclass-001/blob/master/LICENSE) 
 
 # Sobre o projeto
@@ -13,6 +13,9 @@ A aplicação consiste em uma landing page de um site de vendas de automóveis. 
 
 https://developmentclass-001.netlify.app
 
+<div align="left">
+<img src="https://user-images.githubusercontent.com/66968264/153597837-504423bb-eab4-4665-8aae-99e945946bee.PNG" width="700px" />
+</div>
 
 # Autor
 
